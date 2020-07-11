@@ -1,4 +1,10 @@
-#introduction{
+#introduction {
     font-size: large;
-    
+
+}
+
+.background {
+    text-align: justify;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
 }

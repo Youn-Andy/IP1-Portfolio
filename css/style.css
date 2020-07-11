@@ -1,3 +1,6 @@
+body{
+    background-color: cadetblue;
+}
 #introduction {
     font-size: large;
 
@@ -7,4 +10,10 @@
     text-align: justify;
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.background h1{
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
 }

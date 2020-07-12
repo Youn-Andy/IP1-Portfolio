@@ -53,6 +53,11 @@ body {
   font-weight: bolder;
   font-style: italic;
 }
+.important{
+  color: crimson;
+  font-weight: bold;
+
+}
 ol{
   list-style-type: none;
 }
@@ -60,4 +65,8 @@ footer {
   background-color: darkblue;
   font-size: large;
   font-style: italic;
+  color: burlywood;
+}
+footer a{
+  color: burlywood;
 }

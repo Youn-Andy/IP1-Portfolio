@@ -2,7 +2,6 @@ body {
   background-color: cadetblue;
   padding: 25px 50px 75px;
   
-
 }
 
 .topnav {
@@ -37,7 +36,8 @@ body {
 }
 
 #introduction img {
-  width: 30%;
+  width: 100%;
+  height: auto;
 }
 
 .background {

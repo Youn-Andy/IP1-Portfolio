@@ -1,6 +1,8 @@
 body {
+ text-align: center;
   background-color: cadetblue;
   padding: 25px 50px 75px;
+  margin: auto;
   
 }
 
@@ -36,7 +38,7 @@ body {
 }
 
 #introduction img {
-  width: 100%;
+  max-width: 50%;
   height: auto;
 }
 
@@ -51,7 +53,9 @@ body {
   font-weight: bolder;
   font-style: italic;
 }
-
+ol{
+  list-style-type: none;
+}
 footer {
   background-color: darkblue;
   font-size: large;

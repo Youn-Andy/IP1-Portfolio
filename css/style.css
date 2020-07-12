@@ -1,6 +1,8 @@
 body{
+   background-image: image("pic1.jpg");
     background-color: cadetblue;
-    background-image: url();
+
+  
 }
 
 .topnav {

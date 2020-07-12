@@ -1,9 +1,9 @@
 body {
- text-align: center;
+  text-align: center;
   background-color: cadetblue;
   padding: 25px 50px 75px;
   margin: auto;
-  
+
 }
 
 .topnav {
@@ -42,6 +42,10 @@ body {
   height: auto;
 }
 
+#introduction a {
+  color: crimson;
+}
+
 .background {
   text-align: justify;
   font-size: large;
@@ -53,20 +57,24 @@ body {
   font-weight: bolder;
   font-style: italic;
 }
-.important{
+
+.important {
   color: crimson;
   font-weight: bold;
 
 }
-ol{
+
+ol {
   list-style-type: none;
 }
+
 footer {
   background-color: darkblue;
   font-size: large;
   font-style: italic;
   color: burlywood;
 }
-footer a{
+
+footer a {
   color: burlywood;
 }

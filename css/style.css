@@ -1,5 +1,6 @@
 body{
     background-color: cadetblue;
+    background-image: url();
 }
 
 .topnav {
@@ -42,4 +43,9 @@ body{
     font-size: x-large;
     font-weight: bolder;
     font-style: italic;
+}
+footer{
+  background-color: darkblue;
+  font-size: large;
+  font-style: italic;
 }
